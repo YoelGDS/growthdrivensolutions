@@ -1,2 +1,2 @@
 # growthdrivensolutions
-# collection of assests for GrowhDriven.Solutions
+# collection of assests for GrowthDriven.Solutions
